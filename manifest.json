@@ -1,0 +1,26 @@
+{
+    "name": "Sin-luz",
+    "short_name": "Sin-luz",
+    "id": "./visor.php",
+    "description": "Estado energético",
+    "start_url": "./visor.php",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#f6f1e8",
+    "theme_color": "#0d3b46",
+    "icons": [
+        {
+            "src": "./fotos/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./fotos/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
